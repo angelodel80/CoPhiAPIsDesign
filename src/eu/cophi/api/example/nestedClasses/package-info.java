@@ -5,4 +5,4 @@
  * @author Angelo Del Grosso
  *
  */
-package eu.cophi.api.example.item17;
+package eu.cophi.api.example.nestedClasses;

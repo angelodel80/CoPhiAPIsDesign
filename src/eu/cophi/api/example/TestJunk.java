@@ -1,5 +1,7 @@
 package eu.cophi.api.example;
 
+import eu.cophi.api.example.nestedClasses.StaticClass;
+
 public class TestJunk {
 
 	public TestJunk() {
@@ -15,6 +17,8 @@ public class TestJunk {
 		Junk j = new Junk();
 		j.pMethods();
 		j.nopMethods();
+		
+
 
 	}
 

@@ -1,4 +1,4 @@
-package eu.cophi.api.example.item17;
+package eu.cophi.api.example.inheritance;
 
 import java.io.Serializable;
 
