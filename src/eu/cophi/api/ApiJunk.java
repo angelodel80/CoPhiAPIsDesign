@@ -2,6 +2,8 @@ package eu.cophi.api;
 
 public class ApiJunk {
 
+	public static final double VER = 0.00;
+	
 	public ApiJunk() {
 		// TODO Auto-generated constructor stub
 	}
@@ -13,6 +15,9 @@ public class ApiJunk {
 	public String nopMethods(){
 		return "This is not a protected method!";
 	}
+	
+	@Override
+	public String toString() {return "Api version: " +VER;};
 
 	/**
 	 * @param args
