@@ -10,6 +10,6 @@ package eu.cophi.api;
 public interface FiloService {
 	public String command(String[] params);
 	public String serviceName();
-	public String[] serviceFeatures();
+	public String[] serviceFunctions();
 	public String execute(String function);
 }
