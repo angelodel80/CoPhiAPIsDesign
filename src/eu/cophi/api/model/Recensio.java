@@ -1,5 +1,5 @@
 package eu.cophi.api.model;
 
-public interface Recentio {
+public interface Recensio {
 
 }
