@@ -8,5 +8,5 @@ package eu.cophi.api.model;
  *
  */
 public interface Content {
-	
+	String getType();
 }
