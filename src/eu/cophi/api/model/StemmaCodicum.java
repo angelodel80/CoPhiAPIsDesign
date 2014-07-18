@@ -7,6 +7,6 @@ package eu.cophi.api.model;
  * @author Angelo Del Grosso
  *
  */
-public interface Tradition {
-	
+public interface StemmaCodicum {
+
 }
